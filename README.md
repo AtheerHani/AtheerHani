@@ -55,8 +55,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/a/a/output/snake.svg" alt="Snake animation" />
-
+<img src="https://githubusercontent.com" alt="Snake animation"
 ###
 
 <div align="center">
